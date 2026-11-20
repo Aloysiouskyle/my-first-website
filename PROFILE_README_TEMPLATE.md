@@ -124,7 +124,7 @@ A learning write-up explaining how separate services can organize responsibiliti
 | :-- | :-- |
 | **June 2026** | **Software Development Intern**, Bank of Uganda — Business Automation Department |
 | **Expected July 2027** | **Bachelor of Science in Computer Science**, Uganda Christian University |
-| **University training** | Computer Science Recess Workshop, Uganda Christian University |
+| **May–July 2025** | **Computer Science Recess Workshop**, Uganda Christian University |
 
 ## `> github_activity`
 
